@@ -1,1 +1,3 @@
-<a href="calculatorbyhamza.surge.sh">Live At</a>
+Basic project
+
+<a href="https://calculatorbyhamza.surge.sh/" target="_blank">Live</a>
